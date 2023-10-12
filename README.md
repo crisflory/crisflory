@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/crisflory/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/crisflory/azure-network-protocols)
+    
+[<img align="left" alt="cris| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h2>🤳Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/cris-flory
+[linkedin]: https://www.linkedin.com/in/cris-flory/
