@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: linkedin.com/in/cris-flory
+[linkedin]:https://linkedin.com.com/in/cris-flory
