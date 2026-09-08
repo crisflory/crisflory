@@ -1,5 +1,9 @@
 # Microsoft Sentinel & KQL Security Monitoring Lab
 
+![Illustrative Microsoft Sentinel and KQL security monitoring workflow](sentinel-workflow.svg)
+
+> **Portfolio visual:** This diagram illustrates the lab workflow. It is not a screenshot of a live Sentinel tenant.
+
 ## Goal
 Demonstrate security-event review, alert triage, log analysis, and documentation using Microsoft Sentinel concepts and KQL queries.
 
