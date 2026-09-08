@@ -1,5 +1,9 @@
 # Microsoft Defender for Endpoint Threat-Hunting Lab
 
+![Illustrative Defender for Endpoint threat-hunting workflow](defender-hunt-workflow.svg)
+
+> **Portfolio visual:** This diagram illustrates the investigation workflow. It is not a screenshot of a live Defender tenant.
+
 ## Goal
 Document a structured threat-hunting workflow focused on reviewing endpoint security signals, identifying suspicious activity, recording evidence, and explaining escalation decisions.
 
