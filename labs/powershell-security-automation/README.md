@@ -1,5 +1,9 @@
 # PowerShell Security Automation Lab
 
+![Illustrative PowerShell security automation workflow](powershell-automation-workflow.svg)
+
+> **Portfolio visual:** This diagram illustrates the automation workflow used in the lab.
+
 ## Goal
 Build reusable PowerShell examples for administrative and security-support tasks, with documentation explaining the purpose, expected output, and validation steps.
 
