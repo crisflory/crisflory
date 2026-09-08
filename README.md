@@ -38,21 +38,23 @@ I'm a cybersecurity and IT professional with hands-on experience in vulnerabilit
 - [osTicket: Ticket Lifecycle Examples](https://github.com/crisflory/ticket-lifecycle)  
   **Focus:** Ticket triage, prioritization, escalation, documentation, and issue resolution workflows.
 
-## 🚧 Cybersecurity Portfolio Projects I'm Building
+## 🧪 Cybersecurity Lab Projects
 
-### 1. Microsoft Sentinel & KQL Security Monitoring Lab
+These projects now contain structured lab instructions, example queries/scripts, validation checklists, and documentation templates. I will add my own screenshots, outputs, and findings as I complete each lab.
+
+### 1. [Microsoft Sentinel & KQL Security Monitoring Lab](https://github.com/crisflory/crisflory/tree/main/labs/sentinel-kql-security-monitoring)
 **Goal:** Demonstrate security-event review, alert triage, log analysis, and documentation using Microsoft Sentinel concepts and KQL queries.
 
-### 2. Microsoft Defender for Endpoint Threat-Hunting Lab
+### 2. [Microsoft Defender for Endpoint Threat-Hunting Lab](https://github.com/crisflory/crisflory/tree/main/labs/defender-endpoint-threat-hunting)
 **Goal:** Document a structured threat-hunting workflow focused on reviewing endpoint security signals, identifying suspicious activity, recording evidence, and explaining escalation decisions.
 
-### 3. Vulnerability Management & Remediation Lab
+### 3. [Vulnerability Management & Remediation Lab](https://github.com/crisflory/crisflory/tree/main/labs/vulnerability-management-remediation)
 **Goal:** Show the vulnerability-management lifecycle from assessment and prioritization through remediation tracking, validation, and reporting using Tenable concepts and PowerShell examples.
 
-### 4. Azure Security & Access-Control Lab
+### 4. [Azure Security & Access-Control Lab](https://github.com/crisflory/crisflory/tree/main/labs/azure-security-access-control)
 **Goal:** Expand my Azure networking work into a security-focused project covering cloud access, network controls, identity concepts, secure configuration, and documentation.
 
-### 5. PowerShell Security Automation Lab
+### 5. [PowerShell Security Automation Lab](https://github.com/crisflory/crisflory/tree/main/labs/powershell-security-automation)
 **Goal:** Build reusable PowerShell examples for administrative and security-support tasks, with documentation explaining the purpose, expected output, and validation steps.
 
 ## 🎯 Current Focus
