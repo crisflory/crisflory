@@ -1,5 +1,9 @@
 # Azure Security & Access-Control Lab
 
+![Illustrative Azure security and access-control architecture](azure-security-architecture.svg)
+
+> **Portfolio visual:** This diagram illustrates the security design reviewed in the lab. It is not a screenshot of a live Azure tenant.
+
 ## Goal
 Expand existing Azure networking work into a security-focused project covering cloud access, network controls, identity concepts, secure configuration, and documentation.
 
